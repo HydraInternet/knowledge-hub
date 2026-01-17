@@ -12,6 +12,9 @@ views:
       - Status
       - Assignee
       - file.name
+    sort:
+      - property: Status
+        direction: ASC
   - type: table
     name: All Projects
     order:
