@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.path.startsWith("Projects/")
+    - file.basename != "__template__"
+views:
+  - type: table
+    name: Active Projects
+    filters:
+      and:
+        - Status == "Active"
+    order:
+      - Status
+      - Assignee
+      - file.name
+  - type: table
+    name: All Projects
+    order:
+      - Status
+      - Assignee
+      - file.name
