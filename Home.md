@@ -1,9 +1,5 @@
-> [!info] Hotlinks
-> [[Members]]
-
 # Members
 ![[Members.base]]
-
 
 # Projects
 ![[Projects.base]]
