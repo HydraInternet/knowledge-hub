@@ -1,6 +1,7 @@
 ---
 Status: Active
-Assignee: Kale Miller
+Assignee: "[[@Kale]]"
+Due Date:
 ---
 # Overview
 I'd want to perform a literature review of the current state of the industry. This literature review would review current approaches by other projects, identifying their strengths and weaknesses, and helping to clarify where we want the research to focus and what kinds of standards we should adhere to.

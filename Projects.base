@@ -13,6 +13,8 @@ views:
       - Assignee
       - file.name
     sort:
+      - property: formula.Status
+        direction: ASC
       - property: Status
         direction: ASC
   - type: table
@@ -21,3 +23,4 @@ views:
       - Status
       - Assignee
       - file.name
+    sort: []
