@@ -15,5 +15,5 @@ However it would be a wasted opportunity to just do a wiki entry. I recommend yo
 Let's start by simply *finding* these peers. Then we can perform some kind of structured research on each. 
 
 # Tasks
-- [ ] Collect a list of peers, creating a page for each
+- [x] Collect a list of peers, creating a page for each ✅ 2026-01-18
 - [ ] Setup a place in Obsidian for me to document peers
