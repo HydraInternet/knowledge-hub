@@ -1,3 +1,4 @@
 # TODO: Figure out what should be ignored for obsidian
 .obsidian/*
 
+.DS_Store
