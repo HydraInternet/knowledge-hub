@@ -1,1 +1,0 @@
-- [ ] (@Kale) Setup legal structure 
