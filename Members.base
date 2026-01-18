@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.path.startsWith("Members/")
+    order:
+      - file.name
+      - Title
+      - Role
