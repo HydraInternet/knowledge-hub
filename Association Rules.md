@@ -10,9 +10,6 @@ Document Status: Draft
 > Early versions of this document are mostly AI-generated. You may notice this in early iterations. Before release, this document is to be rewritten and/or heavily audited.
 
 
-> [!NOTE] Requested Changes
-> I can't get AI to make these changes for me for some reason. So I'll put them here and make the changes myself: [[Requested Rule Updates]]
-
 
 # Association Rules
 
