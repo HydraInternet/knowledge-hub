@@ -14,150 +14,6 @@ Document Status: Draft
 > I can't get AI to make these changes for me for some reason. So I'll put them here and make the changes myself: [[Requested Rule Updates]]
 
 
-
-  
-
-### **1. Membership Acceptance (Issue A)**
-
-- Replace **automatic membership acceptance** with a constrained committee oversight model.
-    
-- Membership is accepted once eligibility and fee/contribution requirements are met **unless** the committee resolves (by ≥66%) within a fixed period (e.g. 14 days) that eligibility is not satisfied.
-    
-- Any rejection must:
-    
-    - require a ≥66% committee vote
-        
-    - be recorded with reasons
-        
-    
-- This preserves open access while restoring statutory defensibility.
-    
-
----
-
-### **2. Statutory Minimum Membership Safeguard (Issue B)**
-
-- Add an explicit rule that **no suspension, expulsion, revocation, freeze, or other action may reduce the number of ordinary members below the statutory minimum required by the Act**.
-    
-- This safeguard must apply universally across:
-    
-    - membership cessation
-        
-    - disciplinary action
-        
-    - freeze of operations
-        
-    - Founding Chairperson powers
-        
-    
-
----
-
-### **3. Committee Quorum Clarification (Issue C)**
-
-- Resolve the mathematical ambiguity caused by:
-    
-    - minimum committee size = 1
-        
-    - quorum defined as Chairperson + 75% of committee
-        
-    
-- Update quorum rules to:
-    
-    - require the Chairperson **and at least one other committee member**, unless only one committee member exists
-        
-    - if only one committee member exists, that member alone constitutes quorum
-        
-    
-- This applies only to committee meetings, not general meetings.
-    
-
----
-
-### **4. Bad-Faith Determination Safeguards (Issue D)**
-
-- Retain the Founding Chairperson’s unilateral power to determine bad faith.
-    
-- Add procedural safeguards:
-    
-    - determinations must be recorded in writing
-        
-    - reasons must be stated
-        
-    - an effective date must be specified
-        
-    
-- No change to voting thresholds or authority distribution.
-    
-
----
-
-### **5. Freeze of Operations Backdating (Issue E)**
-
-- Reduce maximum backdating of a freeze of operations from **1 year** to **90 days**.
-    
-- All other freeze mechanics remain unchanged.
-    
-
----
-
-### **6. Voting Threshold Harmonisation (Issue F)**
-
-- Standardise voting thresholds to **only three values** across the entire ruleset:
-    
-    - **66%** for committee supermajority decisions
-        
-    - **75%** for significant general meeting decisions
-        
-    - **90%** for extreme or existential actions
-        
-    
-- Replace any **80% thresholds** (notably committee-based revocation or disciplinary triggers) with **75%**.
-    
-- Ensure no other percentages remain.
-    
-
----
-
-### **7. Numbering and Structural Corrections (Issue G)**
-
-- Fix all numbering and formatting errors without altering meaning, including:
-    
-    - duplicated numbering (e.g. “1. 1.”)
-        
-    - duplicated section numbers (e.g. multiple 7.3.2 headings)
-        
-    - malformed headings (e.g. “## ## 13”)
-        
-    
-- Ensure:
-    
-    - section numbers are sequential
-        
-    - indentation levels are preserved
-        
-    - cross-references remain valid
-        
-    
-
----
-
-### **8. No Change Confirmation**
-
-- Do **not** alter:
-    
-    - Founding Chairperson powers or term length
-        
-    - 90% removal threshold for Founding Chairperson
-        
-    - ideological framing of membership
-        
-    - recasting vote mechanics
-        
-    - appeal limits
-        
-    - fee, fund, winding-up, or surplus distribution logic
-
 # Association Rules
 
 ## 1. Name of the Association
@@ -200,19 +56,30 @@ The objects of the Association are:
 
 2. No nomination or endorsement by an existing member is required.
 
-3. An application for membership is taken to be accepted automatically when:
+3. An application for membership is taken to be accepted when:
 	1. the applicant satisfies the eligibility requirements under rule 3.1; and
 	2. the applicant has either:
 	    1. paid any applicable membership fees; or
-	    2. completed operational or volunteer contributions that the committee has assessed as meeting or exceeding the applicable membership fees.
+	    2. completed operational or volunteer contributions that the committee has assessed as meeting or exceeding the applicable membership fees,
+	unless rejected in accordance with subrule (4).
 
-4. No additional approval or discretionary acceptance process applies to membership applications, subject to these rules.
+4. The committee may, within fourteen (14) days after the conditions in subrule (3) are satisfied, resolve that an application is not accepted on the basis that the eligibility requirements under rule 3.1 have not been met.
+
+5. A resolution under subrule (4):
+	1. must be supported by not less than sixty-six percent (66%) of committee members; and
+	2. must be recorded in writing, including the reasons for the decision.
+
+6. If no resolution is made under subrule (4) within the fourteen (14) day period, the application is taken to have been accepted automatically at the end of that period.
+
+7. The committee must notify the applicant of acceptance or rejection as soon as practicable after the decision is made or deemed to have been made.
 
 ## 3.3 Commencement of Membership
 
-1. Membership commences immediately upon satisfaction of the conditions set out in rule 3.2(3).
+1. Membership commences:
+	1. if the application is accepted without objection, at the end of the fourteen (14) day period referred to in rule 3.2(4); or
+	2. if the committee resolves to accept the application earlier, on the date of that resolution.
 
-2. Membership is forward-looking. Operational or volunteer contributions may be assessed retrospectively for the purpose of granting membership but do not confer membership rights prior to acceptance.
+2. Membership is forward-looking. Operational or volunteer contributions may be assessed retrospectively for the purpose of granting membership but do not confer membership rights prior to commencement.
 
 3. By applying for and accepting membership, a member is taken to have agreed to be bound by:
 	1. these rules; and
@@ -227,9 +94,12 @@ The objects of the Association are:
 	2. a resolution of not less than sixty-six percent (66%) of the committee members; or
 	3. a resolution supported by not less than ninety percent (90%) of ordinary members eligible to vote.
 
-3. A determination of bad-faith participation must specify the date from which the member is taken to have ceased acting in good faith.
+3. A determination of bad-faith participation must:
+	1. be recorded in writing;
+	2. state the reasons for the determination; and
+	3. specify the date from which the member is taken to have ceased acting in good faith.
 
-4. Upon such determination, the member’s membership ceases with effect from the specified date.
+4. Upon such determination, the member’s membership ceases with effect from the date specified under subrule (3)(c).
 
 5. A determination under this rule does not automatically invalidate any votes cast by the member prior to cessation.
 
@@ -308,7 +178,7 @@ The objects of the Association are:
 
 2. A freeze of operations takes effect only if supported by not less than ninety percent (90%) of ordinary members eligible to vote.
 
-3. A freeze may be back-dated to a specified point in time, not exceeding one (1) year prior to the date of the resolution.
+3. A freeze may be back-dated to a specified point in time, not exceeding ninety (90) days prior to the date of the resolution.
 
 4. During a freeze of operations:
 	1. no new memberships commence;
@@ -317,11 +187,29 @@ The objects of the Association are:
 	4. all members recorded at that date retain voting rights; and
 	5. existing financial obligations of the Association continue to be met.
 
-6. A freeze of operations does not affect the validity of actions taken prior to the freeze date unless expressly resolved otherwise.
+5. A freeze of operations does not affect the validity of actions taken prior to the freeze date unless expressly resolved otherwise.
 
-## 5. Classes of Membership and Fees
+6. A freeze of operations must not be proposed, approved, or take effect if it would cause the number of ordinary members to fall below the statutory minimum required by the Act.
+## 3.12 Statutory Minimum Membership Safeguard
 
-### 5.1 Classes of Membership
+1. Notwithstanding any other provision of these rules, no action of the Association may have the effect of reducing the number of ordinary members below the minimum number required by the Associations Incorporation Act 2015 (WA).
+
+2. Subrule (1) applies to, without limitation:
+	1. suspension, expulsion, or cessation of membership;
+	2. determinations of bad-faith participation;
+	3. recasting of votes;
+	4. freezes of operations;
+	5. the exercise of any power by the committee; and
+	6. the exercise of any power by the Founding Chairperson.
+
+3. If a proposed action would result in the number of ordinary members falling below the statutory minimum:
+	1. the action is taken to be invalid to the extent of that effect; and
+	2. the action must not take effect unless and until the statutory minimum can be maintained.
+
+4. The committee must take all reasonable steps to ensure ongoing compliance with the statutory minimum membership requirement at all times.
+## 4. Classes of Membership and Fees
+
+### 4.1 Classes of Membership
 1. The Association consists of **ordinary members** and any **associate members** provided for under this section.
    
 2. An ordinary member has full voting rights at general meetings and any other rights conferred on members by these rules or determined by the committee.
@@ -334,7 +222,7 @@ The objects of the Association are:
    
 6. The number of members of any class is not limited unless otherwise determined by resolution at a general meeting.
 
-### 5.2 Membership Fees
+### 4.2 Membership Fees
 1. The committee may determine: a. an entrance fee (if any); and b. a membership fee (if any), payable by members of each class of membership.
    
 2. Fees may differ between ordinary members and associate members, and between classes of associate membership.
@@ -345,16 +233,16 @@ The objects of the Association are:
    
 5. The committee may, at its discretion, reinstate a person whose membership has ceased due to non-payment, upon payment of any outstanding fees.
 
-## 6. Management Committee
+## 5. Management Committee
 
-### 6.1 Committee and Powers
+### 5.1 Committee and Powers
 1. The committee members are the persons who, as the management committee of the Association, have the power to manage the affairs of the Association.
    
 2. Subject to the Act, these rules, and any resolution passed at a general meeting, the committee may do all things necessary or convenient for the proper management of the affairs of the Association.
    
 3. The committee must take all reasonable steps to ensure that the Association complies with the Act and these rules.
 
-### 6.2 Composition of the Committee
+### 5.2 Composition of the Committee
 1. The committee consists of: a. the **Chairperson**; and b. any other ordinary members elected to the committee in accordance with these rules.
    
 2. The Chairperson is the principal office holder of the Association and is ultimately responsible for the governance, administration, and operation of the Association.
@@ -367,7 +255,7 @@ The objects of the Association are:
    
 6. The minimum number of committee members is one, being the Chairperson.
 
-### 6.3 Election and Term of Office
+### 5.3 Election and Term of Office
 1. 1. Any ordinary member may nominate themselves for election to the committee.
    
 2. Committee members must be elected by ordinary members at an annual general meeting.
@@ -378,16 +266,16 @@ The objects of the Association are:
    
 5. Committee members may submit themselves for re-election at each annual general meeting.
 
-### 6.4 Removal of Committee Members
+### 5.4 Removal of Committee Members
 1. A committee member, other than the Chairperson, may be removed from office if the member: a. fails to actively perform their duties or act in the interests of the Association; or b. is removed by resolution at a general meeting.
    
 2. A resolution to remove a committee member under subrule (1)(b) must be passed by a simple majority of ordinary members present and entitled to vote at the meeting.
    
 3. A committee member who is the subject of a proposed removal must be given reasonable notice and an opportunity to be heard before any decision is made.
 
-### 6.5 Chairperson and Founding Chairperson
+### 5.5 Chairperson and Founding Chairperson
 
-#### 6.5.1 Chairperson
+#### 5.5.1 Chairperson
 1. The Chairperson is elected from among the committee members in accordance with these rules.
    
 2. The Chairperson may be removed from office if: a. all committee members other than the Chairperson unanimously agree to the removal; or b. a resolution is passed at a general meeting by not less than seventy-five percent (75%) of the ordinary members present and entitled to vote.
@@ -396,7 +284,7 @@ The objects of the Association are:
    
 4. Upon removal or replacement of the Chairperson, the committee must ensure that a replacement Chairperson is elected in accordance with these rules.
 
-#### 6.5.2 Founding Chairperson
+#### 5.5.2 Founding Chairperson
 1. Upon incorporation of the Association, the **inaugural Chairperson** of the Association is the **Founding Chairperson**.
    
 2. The Founding Chairperson role exists for a maximum of five (5) consecutive annual terms from the date of incorporation of the Association.
@@ -407,22 +295,28 @@ The objects of the Association are:
    
 5. At the conclusion of the fifth annual term, the Founding Chairperson role automatically expires and the office reverts to the standard Chairperson role, subject to election and removal in accordance with these rules.
 
-### 6.6 Committee Meetings and Records
+### 5.6 Committee Meetings and Records
+
 1. Committee meetings may be convened by the Chairperson or by any two committee members.
-   
-2. A quorum for a committee meeting is present when: a. the Chairperson is present; and b. at least seventy-five percent (75%) of the committee members are present.
-   
-3. Each committee member present at a meeting has one vote.
-   
-4. Questions arising at a committee meeting are decided by a majority of votes of committee members present.
-   
-5. Minutes of committee meetings must be kept.
-   
-6. Record keeping for committee meetings must be carried out by the Chairperson or by a committee member appointed by the meeting.
 
-## 7. General Meetings of Members
+2. A quorum for a committee meeting is present when:
+	1. the Chairperson is present; and
+	2. at least one other committee member is present,
+	unless subrule (3) applies.
 
-### 7.1 Annual General Meeting (AGM)
+3. If the committee consists of only one committee member, that committee member alone constitutes a quorum.
+
+4. Each committee member present at a meeting has one vote.
+
+5. Questions arising at a committee meeting are decided by a majority of votes of committee members present.
+
+6. Minutes of committee meetings must be kept.
+
+7. Record keeping for committee meetings must be carried out by the Chairperson or by a committee member appointed by the meeting.
+
+## 6. General Meetings of Members
+
+### 6.1 Annual General Meeting (AGM)
 1. The Association must hold an annual general meeting once in each calendar year.
    
 2. The annual general meeting must be conducted online using electronic means that allow members to participate simultaneously. The specific platform or technology used need not be specified in advance.
@@ -439,7 +333,7 @@ The objects of the Association are:
 
 5. Any other business of which notice has been properly given may be conducted at the annual general meeting.
 
-### 7.2 Special General Meetings
+### 6.2 Special General Meetings
 1. The committee may convene a special general meeting at any time.
    
 2. The committee must convene a special general meeting if at least thirty-three percent (33%) of the ordinary members request that a special general meeting be held.
@@ -451,8 +345,8 @@ The objects of the Association are:
 
 4. Except as otherwise provided in these rules, the convening, notice, conduct, and business of special general meetings must follow the model rules under the Act.
 
-### 7.3 Notice and Procedure
-#### 7.3.1 Notice of General Meetings
+### 6.3 Notice and Procedure
+#### 6.3.1 Notice of General Meetings
 1. At least twenty-eight (28) days’ notice must be given to all members for:
     1. an annual general meeting; or
     2. a special general meeting.
@@ -464,7 +358,7 @@ The objects of the Association are:
     2. that the meeting will be conducted online;
     3. the general nature of the business to be considered; and
     4. any other information required by the Act or these rules.
-#### 7.3.2 Quorum
+#### 6.3.2 Quorum
 1. Subject to subrules (2) to (7), the quorum for a general meeting is the presence of the Chairperson.
    
 2. Any member may elect, by giving written notice to the committee at least seven (7) days before the meeting, to require their attendance at a particular general meeting.
@@ -480,14 +374,14 @@ The objects of the Association are:
 6. If a member elects to attend a meeting and fails to attend without giving notice under subrule (5), the member is taken to be absent.
 
 7. Where a member is absent under subrule (6), the committee may revoke that member’s membership if:
-    1. the Founding Chairperson agrees to the revocation; or
-    2. at least eighty percent (80%) of the committee members agree to the revocation.
-#### 7.3.2 Voting, Proxies, and Participation
+	1. the Founding Chairperson agrees to the revocation; or
+	2. at least seventy-five percent (75%) of the committee members agree to the revocation.
+#### 6.3.2 Voting, Proxies, and Participation
 1. Voting entitlements, voting procedures, and the requirements for passing resolutions at general meetings are as set out in the model rules under the Act.
 2. Proxy appointments are permitted in accordance with the model rules under the Act.
 3. Members may participate in a general meeting by electronic means that allow simultaneous communication, and a member participating in this way is taken to be present at the meeting.
-## 8. Notices and Voting
-### 8.1 Notices to Members
+## 7. Notices and Voting
+### 7.1 Notices to Members
 1. Any notice or other document required to be given to a member under these rules must be given in writing.
 
 2. Notices may be given to a member by:
@@ -500,7 +394,7 @@ The objects of the Association are:
 
 4. All members, regardless of class of membership, are entitled to receive notice of, and to attend, any general meeting of the Association, subject to these rules.
 
-### 8.2 Voting Entitlements
+### 7.2 Voting Entitlements
 1. Voting rights at general meetings are as set out in the model rules under the Associations Incorporation Act 2015 (WA).
 
 2. Each ordinary member has one vote on any question arising at a general meeting.
@@ -511,7 +405,7 @@ The objects of the Association are:
     1. the member was a member entitled to vote at the time notice of the meeting was given; and
 	2. any fees or other monies payable by the member to the Association have been paid.
 
-### 8.3 Method of Voting
+### 7.3 Method of Voting
 1. Subject to these rules and the Act, voting at a general meeting may be conducted:
     1. by show of hands;
     2. by electronic means; or
@@ -521,7 +415,7 @@ The objects of the Association are:
 
 3. If the votes on a question are equal, the Chairperson has a second or casting vote, in accordance with the model rules.
 
-### 8.4 Proxies
+### 7.4 Proxies
 1. An ordinary member may appoint another ordinary member as their proxy to vote and speak on their behalf at a general meeting, in accordance with the model rules.
 
 2. The appointment of a proxy must:
@@ -532,13 +426,13 @@ The objects of the Association are:
 
 4. Proxy participation does not affect quorum unless otherwise provided for under these rules.
 
-### 8.5 Electronic Participation
+### 7.5 Electronic Participation
 
 1. A general meeting may be conducted using electronic means that allow members to participate simultaneously.
 
 2. A member who participates in a meeting by electronic means is taken to be present at the meeting and, if the member votes, to have voted in person.
 
-## 9. Requisition of General Meetings
+## 8. Requisition of General Meetings
 
 1. Ordinary members of the Association may require that a special general meeting be convened.
 
@@ -553,7 +447,7 @@ The objects of the Association are:
 
 5. Except as expressly provided in this section, the procedure, notice requirements, timing, and conduct of a special general meeting requisitioned by members are to follow the model rules under the Act.
 
-## 10. Control and Use of Funds
+## 9. Control and Use of Funds
 1. The funds of the Association must be applied solely towards the promotion of the objects and purposes of the Association and must not be distributed directly or indirectly to any member, except as permitted by the Associations Incorporation Act 2015 (WA) and these rules.
 
 2. The Association must open and maintain one or more accounts in the name of the Association with a financial institution approved by the committee.
@@ -576,12 +470,12 @@ The objects of the Association are:
 
 9. The committee must ensure that appropriate records are kept of all income and expenditure of the Association in accordance with the Act.
 
-## 11. Financial Year
+## 10. Financial Year
 1. The financial year of the Association is the period of twelve (12) months commencing on **1 July** in each year and ending on **30 June** of the following year.
 
 2. The first financial year of the Association commences on the date of incorporation and ends on the first occurring 30 June after that date.
 
-## 12. Accounts and Records
+## 11. Accounts and Records
 
 1. The Association must keep financial records that:
    a. correctly record and explain its transactions and financial position and performance; and  
@@ -595,7 +489,7 @@ The objects of the Association are:
 
 5. Other books and records of the Association must be kept in the custody or under the control of the secretary, unless the committee determines otherwise.
 
-## ## 13. Inspection of Records
+## 12. Inspection of Records
 
 1. A member is entitled to inspect, free of charge:
    a. the register of members;  
@@ -613,15 +507,15 @@ The objects of the Association are:
    a. a purpose directly connected with the affairs of the Association; or  
    b. complying with a requirement of the Act.
 
-## ## 14. Dispute Resolution
+## 13. Dispute Resolution
 
-### 14.1 Application
+### 13.1 Application
 
 1. This rule applies to disputes:
 	1. between members; or  
 	2. between one or more members and the Association.
 
-### 14.2 Resolution Process
+### 13.2 Resolution Process
 
 1. The parties to a dispute must attempt to resolve the dispute between themselves within fourteen (14) days after the dispute has come to the attention of each party.
 
@@ -635,7 +529,7 @@ The objects of the Association are:
 
 6. The committee must give each party written notice of its determination and the reasons for the determination within seven (7) days after the meeting.
 
-### 14.3 Mediation
+### 13.3 Mediation
 
 1. A party to the dispute may, within fourteen (14) days after receiving notice of the committee’s determination, request the appointment of a mediator.
 
@@ -647,9 +541,9 @@ The objects of the Association are:
 
 5. The costs of mediation are to be borne by the party or parties requesting the mediation.
 
-## 15. Alteration of Rules
+## 14. Alteration of Rules
 
-### 15.1 Alteration by Special Resolution
+### 14.1 Alteration by Special Resolution
 
 1. Subject to subrule 15.2, the Association may alter, rescind, or add to these rules only by special resolution passed at a general meeting of the Association, in accordance with the Associations Incorporation Act 2015 (WA).
 
@@ -659,7 +553,7 @@ The objects of the Association are:
 
 4. An alteration to these rules does not take effect until all requirements of the Act relating to the alteration have been satisfied.
 
-### 15.2 Founding Chairperson Power to Amend Rules
+### 14.2 Founding Chairperson Power to Amend Rules
 
 1. Notwithstanding subrule 15.1, during the term of the Founding Chairperson as defined in rule 6.5.2, the Founding Chairperson may alter, rescind, or add to these rules at any time by written instrument.
 
@@ -675,13 +569,13 @@ The objects of the Association are:
 	1. provide notice of the alteration to all members; and
 	2. ensure that an updated copy of the rules is made available to members.
 
-### 15.3 Expiry of Founding Chairperson Powers
+### 14.3 Expiry of Founding Chairperson Powers
 
 1. Upon the expiry of the Founding Chairperson role under rule 6.5.2, subrule 15.2 ceases to have effect.
 
 2. From that time, all alterations, rescissions, or additions to these rules must be made strictly in accordance with subrule 15.1.
 
-## 16. Common Seal
+## 15. Common Seal
 
 1. The Association may have a common seal.
 
@@ -696,7 +590,7 @@ The objects of the Association are:
 
 6. The secretary must keep a written record of each use of the common seal.
 
-## 17. Custody of Books and Securities
+## 16. Custody of Books and Securities
 
 1. Subject to subrule (2), the books and any securities of the Association must be kept in the custody or under the control of the secretary.
 
@@ -706,7 +600,7 @@ The objects of the Association are:
 
 4. The books of the Association must be retained for at least seven (7) years.
 
-## 18. Distribution of Surplus Property
+## 17. Distribution of Surplus Property
 
 1. In this rule, surplus property means property remaining after satisfaction of:
    a. the debts and liabilities of the Association; and  
@@ -723,7 +617,7 @@ The objects of the Association are:
 
 7. This rule is subject to section 24 of the Associations Incorporation Act 2015 (WA).
 
-## 19. Winding Up
+## 18. Winding Up
 
 1. The Association may be wound up voluntarily only by special resolution in accordance with the Associations Incorporation Act 2015 (WA).
 
